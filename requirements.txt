@@ -8,4 +8,4 @@ MarkupSafe==2.0.1
 python-dotenv==0.18.0
 Werkzeug==2.0.1
 beautifulsoup4==4.11.1
-flask_cors==2.1.1
+Flask-Cors==3.0.10
